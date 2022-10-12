@@ -5,3 +5,7 @@ en innstallasjons opsjon hos alle.
 
 ############
 Subrepo oppdateringsjekk..
+
+Admin må oppdatere i AVTools:
+* Legge inn ny git adresse i utvidelser
+* Legge til unntak i .gitnore fil.
